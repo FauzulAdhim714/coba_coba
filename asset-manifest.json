@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/FauzulAdhim714/coba_coba.git/static/css/main.073c9b0a.css",
-    "main.js": "/FauzulAdhim714/coba_coba.git/static/js/main.ea629ec0.js",
-    "index.html": "/FauzulAdhim714/coba_coba.git/index.html",
-    "main.073c9b0a.css.map": "/FauzulAdhim714/coba_coba.git/static/css/main.073c9b0a.css.map",
-    "main.ea629ec0.js.map": "/FauzulAdhim714/coba_coba.git/static/js/main.ea629ec0.js.map"
+    "main.css": "/coba_coba/static/css/main.073c9b0a.css",
+    "main.js": "/coba_coba/static/js/main.ea629ec0.js",
+    "index.html": "/coba_coba/index.html",
+    "main.073c9b0a.css.map": "/coba_coba/static/css/main.073c9b0a.css.map",
+    "main.ea629ec0.js.map": "/coba_coba/static/js/main.ea629ec0.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
